@@ -1,0 +1,37 @@
+<resources>
+    <string name="sathvika">Sathvika</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="contact">Contact</string>
+    <string name="f_t">Email: sathvika.muthyala@email.com</string>
+    <string name="contact_t">Going to Contact...</string>
+    <string name="hobbies_t">Going to Hobbies...</string>
+    <string name="hobbies_info">My hobbies include photography, where I capture moments and express my creativity. I enjoy cooking and experimenting with different cuisines, sharing meals with family and friends. Traveling fuels my curiosity about new cultures and enhances my perspective on life, inspiring my projects and community engagement efforts.</string>
+    <string name="contact_info">Name: Sathvika Muthyala
+                                Email: sathvika.muthyala@email.com
+                                Phone: +1 (555) 123-4567
+                                Address: 123 Maple Street, Jersey City, NJ 07306
+                                LinkedIn: linkedin.com/in/sathvika-muthyala
+                                GitHub: github.com/sathvika-muthyala
+    </string>
+    <string name="biography">Sathvika Muthyala is an accomplished and driven Data Science graduate student at Pace University, with a solid foundation in data analytics, machine learning, and software development. Having completed her Bachelor’s in Information Technology from Sreenidhi Institute of Science and Technology, she has consistently demonstrated academic excellence, earning prestigious honors like the Pragati Scholarship. Currently, she is pursuing her Master’s in Data Science, where she maintains a strong GPA and is honing her skills in advanced topics such as Scalable Databases, Data Science Algorithms, and Machine Learning.
+
+With a broad technical toolkit that includes Python, Java, C++, Dart, R, and JavaScript, Sathvika is skilled across various programming languages and frameworks. Her proficiency extends to database management systems like MySQL and PostgreSQL, along with cloud platforms such as AWS and Google Cloud, making her well-versed in both front-end and back-end development. She has also acquired certifications in Data Science and Cloud Architecture, showcasing her commitment to ongoing learning and professional growth.
+
+Professionally, Sathvika’s experience is diverse and impactful. As a Junior Flutter Developer at Wielabs, she led the creation of four applications, applying object-oriented principles and collaborating closely on Figma-based UI/UX designs. A highlight of her time there was her contribution to the "Freshlii Delivery App"—a mobile solution designed to support Freshlii’s delivery staff. Sathvika played a key role in its development, working with Firebase for backend support and refining the user interface to deliver a seamless experience. She also contributed significantly to the "Pub Mate" app, which she co-developed with a team, implementing critical features like a Pub Mate Finder and chat screens that enhanced communication within the app.
+
+In addition to her work at Wielabs, Sathvika interned as a Software Developer at Keka HR. There, she collaborated with a team to build web applications, utilizing HTML, CSS, JavaScript, and jQuery, and actively engaged in regular team meetings to address issues and discuss progress, contributing to a productive and cohesive work environment. Further expanding her expertise, she gained advanced data analytics skills during her internship at Eduskills, where she applied AWS tools to drive data-driven project decisions.
+
+Beyond her technical skills, Sathvika is passionate about community and leadership. During her undergraduate years, she initiated the Sreenidhi Clubs website, a project that united over 18 clubs and significantly increased student registrations by 40%, fostering a more collaborative campus environment. As a Technical Head for the Start Club at SNIST and an organizer for Aikya, she has demonstrated leadership and a strong commitment to empowering others.
+
+Sathvika’s diverse accomplishments extend beyond academics and work. She holds two world records in solving magic squares with exceptional speed and has achieved first-place rankings in both dance and Geetha chanting competitions at the state level. These achievements reflect her determination, precision, and dedication to excellence in all areas of her life.
+
+With her technical proficiency, real-world experience, and leadership skills, Sathvika is eager to leverage her background in data science and software development to contribute meaningfully to an organization focused on innovation and impact. Her goal is to drive data-informed decision-making and create solutions that not only meet but exceed user expectations.</string>
+</resources>
